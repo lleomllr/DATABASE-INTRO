@@ -1,0 +1,2 @@
+SELECT * FROM Action;
+SELECT * FROM Temp;
